@@ -3,9 +3,6 @@
   "editor.formatOnSave": true,
   "prettier.configPath": ".prettierrc.json",
   "files.insertFinalNewline": true,
-   "files.associations": {
-    "*.css": "tailwindcss"
-  },
   "typescript.tsdk": "./node_modules/typescript/lib",
   "editor.codeActionsOnSave": {
     "source.fixAll": "explicit",
